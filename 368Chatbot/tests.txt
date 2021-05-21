@@ -1,0 +1,120 @@
+Post ID is: kndpgpuenfb2h6
+
+----------------------------------------------
+Post number is: 442
+----------------------------------------------
+Post subject is: Extending Submission for Mobile Project Sprint 1
+----------------------------------------------
+Post content is: Hey all! Due to @440 **(please read that)** , we're extending the mobile project submission by two days to give everyone time to make the necessary changes for the project. If you are already using Expo 38+ in your project for some reason and running in production mode works, you don't have to do this step. Feel free to reach out to us and we can verify this for you if you're unsure. **The project is now due at 11:59pm on April 13th** **** #pin
+
+----------------------------------------------
+
+----------------------------------------------
+Post ID is: kndihgi3em5yl
+
+----------------------------------------------
+Post number is: 441
+----------------------------------------------
+Post subject is: Class Monday (April 12th) Cancelled
+----------------------------------------------
+Post content is: Hey all! Due to some unforeseen circumstances class will be cancelled tomorrow Monday April 12th. Assume that class will resume normally on Wednesday April 14th. Also, please be sure to read Piazza post @440 about the project submission
+
+----------------------------------------------
+
+----------------------------------------------
+Post ID is: kn91kdtjevt2gx
+
+----------------------------------------------
+Post number is: 409
+----------------------------------------------
+Post subject is: [IMPORTANT] Mobile Project Submission Instructions
+----------------------------------------------
+Post content is: **The first part of your mobile project is due on April 11th!** Below are some instructions on how to submit the mobile project, please make sure you test and submit early so you don't run into any last minute problems! 1\. Start your project using _expo start_ or _npm start_ in your project directory 2\. Once started, navigate to the expo control panel that should have automatically opened 3\. Inside the panel, click on _" Publish or Republish project..."_ 4\. Fill out the required information (name and slug are all that are needed), then press _" Publish Project"_ 5\. Back in your terminal you'll notice a message requesting you register or login, choose one of the options and continue through the prompts until you're successfully logged in. 6\. Wait for the process to complete. Once it is done you will get a URL that looks similar to https://expo.io/@sirhype/test 7\. Before submitting, please scan the QR code with your Expo App and verify everything works as intended 8\. Finally, submit the URL you got above on UB Learns along with necessary credentials for the mobile app. Congrats on finishing! **BE SURE TO INCLUDE CREDENTIALS FOR YOUR MOBILE APP WHEN SUBMITTING!** **** **You will follow the same instructions when submitting your Part 2 code.** Let us know if you run into any issues submitting! #pin
+
+----------------------------------------------
+
+----------------------------------------------
+Post ID is: km4x03amoal2yl
+
+----------------------------------------------
+Post number is: 239
+----------------------------------------------
+Post subject is: Technical Tips
+----------------------------------------------
+Post content is: As you are all digging into React, CSS, and HTML, I'm sure that many of you are learning a lot of new things quickly. How can we help? We're happy to build some customized tutorials around a particular subject that you would like more information on technically, or to provide a widget that you would find useful. We're also available during office hours to help troubleshoot issues, answer questions about architecture or design, and generally help you all make your wireframes a reality - but you need to let us know where you need tech support. If you have a topic that you think we should post a tutorial on, reply to this post with your requests, and we'll make something happen. As a reminder, the front end code that was given to all of you has a lot of examples that you can profitably cut and paste and tweak to make your platform do what you want - it's always easy to start from something that works and adjust it than to start with a blank screen, especially if you are new to React. We are happy to walk through the way that starter code works in office hours as well, if you have specific (or even general) questions. Lecture will stay focused on the "what" \- but that doesn't mean that we're not willing and able to help out with the "how" through piazza, videos, office hours, and appointments. We're here to support you! #pin
+
+----------------------------------------------
+
+----------------------------------------------
+Post ID is: klsfftb0aae1zy
+
+----------------------------------------------
+Post number is: 191
+----------------------------------------------
+Post subject is: Backend update log
+----------------------------------------------
+Post content is: Throughout the semester, as I receive requests to add features to the provided backend (or otherwise need to make adjustments), I'll be recording them as followups to this post so that it's easy to find and you can follow this post to get notifications. That being said - if you think something is missing, feel free to let me know! As of yesterday afternoon, the backend for each team on the class server appear to be fully up and functioning. #pin
+
+----------------------------------------------
+
+----------------------------------------------
+Post ID is: kkwufwpoqkt71r
+
+----------------------------------------------
+Post number is: 39
+----------------------------------------------
+Post subject is: TA Office Hours
+----------------------------------------------
+Post content is: TA Office Hours begin this week!!! In fact, we have one coming up in 10 minutes. Feel free to check the "staff" section of the "Resources" tab in Piazza. Or look here for when and where to attend. Monday 12:30 - 1:30pm - Clara https://buffalo.zoom.us/j/92490529226 Tuesday 1:00 - 2:00pm - Jonathan https://buffalo.zoom.us/j/94815172704?pwd=NDRFclBiR0FjY0ZRdUVJUEZkR1JwZz09 Thursday 11:00 - 12:00pm - Tristan https://buffalo.zoom.us/j/5950912002?pwd=M3o3MnhzaFNSQy9COWJLVnJuNGhXZz09 Friday 11:00 - 12:00pm - Tanisha https://buffalo.zoom.us/j/7149553824?pwd=VmpvZUdTUnpwaXMvKzZRbDAxVTVpQT09 As a Reminder: Prof. Hunt has his office hours Monday, Wednesday, and Thursday 4:00 - 5:00pm https://buffalo.zoom.us/j/93931936222?pwd=aE13N05PdzRlQkQvSUZCVVBqdHZBUT09 #pin
+
+----------------------------------------------
+
+----------------------------------------------
+Post ID is: kkmlflk2wn1dp
+
+----------------------------------------------
+Post number is: 6
+----------------------------------------------
+Post subject is: Welcome to CSE 370 - see you this afternoon on ZOOM!
+----------------------------------------------
+Post content is: Topic: CSE 370 (HCI)  Time: This is a recurring meeting Meet anytime Join Zoom Meeting  https://buffalo.zoom.us/j/96044572564?pwd=RjlvT2YwOHlwc0R0dXpqWWVhMy8xUT09 Meeting ID: 960 4457 2564  Passcode: 980232 #pin
+
+----------------------------------------------
+
+----------------------------------------------
+Post ID is: kndiczav4m96e0
+
+----------------------------------------------
+Post number is: 440
+----------------------------------------------
+Post subject is: [ACTION REQUIRED] Fix for mobile project submission
+----------------------------------------------
+Post content is: It seems the version of Expo we were using in this sample project had some incompatibility with our sample code, but only in Production mode. The fix for this thankfully should be relatively easy, so **please follow the following additional steps to submit your mobile project.**  1. Make sure Expo is not running on your computer.  2. In your project terminal run `expo upgrade --npm`, this will allow you to upgrade to a newer version of Expo for your project  3. You will get a prompt saying **You are currently using SDK 37.0.0. Would you like to update to the latest version, 40.0.0? » (Y/n)**  4. Type **N** to respond to the first prompt  5. You will get a prompt saying **Choose a SDK version to upgrade to:**  6. Press **Enter** on **38.0.0**  7. You will get a prompt saying **Would you like to upgrade the Expo app in the Android emulator? » (y/N)**  8. Type **N** to respond to the second prompt Once complete, the process should look something like this: ![image.png](/redirect/s3?bucket=uploads&prefix=paste%2Fj6y876i9v7715d%2F273c8727d4491c1fb6f3a89ceb7dfec8780eaada7aac52baf8d2dd4259070e35%2Fimage.png) You can test that this worked by checking "Production Mode" in the Expo Dashboard in your browser and loading it on your mobile phone. It should load successfully: ![image.png](/redirect/s3?bucket=uploads&prefix=paste%2Fj6y876i9v7715d%2F3a72bb5c67df8c3d640898757daed7c70b808e4af68341d83a7f87da82484aad%2Fimage.png) If you have any questions, please don't hesitate to ask here!
+
+----------------------------------------------
+
+----------------------------------------------
+Post ID is: kn4gqznbbud67g
+
+----------------------------------------------
+Post number is: 355
+----------------------------------------------
+Post subject is: [Tutorial] Brief CSS Tutorial/Refresher
+----------------------------------------------
+Post content is: Hi all! I've created a CSS tutorial video to help with some CSS concepts we find helpful! Check it out and feel free to reply with any questions you may have. https://www.youtube.com/watch?v=rpx76aN4xyM (Apologies for any microphone issues)
+
+----------------------------------------------
+
+----------------------------------------------
+Post ID is: kllc5vb51q3682
+
+----------------------------------------------
+Post number is: 150
+----------------------------------------------
+Post subject is: Server deployment is now available!
+----------------------------------------------
+Post content is: After a couple weeks of work and patient help from CSE IT, your course projects are now being made available on the Stark CSE webserver! Some notes: **Frontend Update Required** ALL TEAMS will need to make a minor change to their GitHub repository. In the file `src/App.jsx`, change the line containing `` to instead read ``. This will allow your app to properly pick up on the webpage URL when you visit your site on the server **Accessing Your Site** \- Your projects are made available at `https://webdev.cse.buffalo.edu/hci//` - for example, the site for team 1 ($gme) is located at `https://webdev.cse.buffalo.edu/hci/gme/`. \- Note that if the URL does not have a `.` in it, the request will be routed to your index.html so the app can display the appropriate page via react-router. However if it does have a `.` in it, it will look for this file in the directory containing the build output of your app - so for example if you place a file named profile.html in your public folder, you could access that via `https://webdev.cse.buffalo.edu/hci//profile.html` \- The backend is deployed to `https://webdev.cse.buffalo.edu/hci//api`. The landing page does not work, however you can still use the API itself and the Swagger API documentation/explorer. These are available at `https://webdev.cse.buffalo.edu/hci//api/api` and `https://webdev.cse.buffalo.edu/hci//api/swagger` respectively. \- The API URL is made available to your application via the `REACT_APP_API_PATH` environment variable. You can see this in action in fetch requests in the provided code, for example in the `loadPosts` function in `src/Component/PostingList.jsx`. By default, this will be set to `http://localhost:3001/api`, and on the server will be overridden to `/hci//api/api`. If you want to use the server API with a local clone of your frontend instead of needing to run the backend (I know some folks had issues with that), you can do so by creating a file named `.env.local` with the contents `REACT_APP_API_PATH=https://webdev.cse.buffalo.edu/hci//api/api` (replacing `` as appropriate). This will override the setting in the `.env` file already committed to your repo, and this file is in your gitignore already so that different developers can have different settings without it being versioned in your repository. For more ifnormation, see https://create-react- app.dev/docs/adding-custom-environment-variables/ **Deployment** \- To update your frontend code on the server, all you need to do is push any changes to the master branch of your repository. The server will then re-download, re- install, and re-build your application. This process will of course take a little bit of time, so I suggest giving it 5 minutes to reflect any changes. \- When any changes are made to the backend, we will take care of re-deploying it for you (and I'll be creating a piazza post to record any updates). I'll do my best to ensure that there aren't any breaking changes or other negative impacts to your apps, but if for some reason this is absolutely necessary (which I doubt), I'll be sure to make this clear. **Questions? Concerns? Problems?** Feel free to get in touch via Piazza, email, or office hours if you have any issues with this process. I've spent a fair amount of time to attempt to make this as stable and as easy as possible for you, but it's always possible that there are bugs or other issues. I'll do my best to get them resolved as fast as I can! #pin
+
+----------------------------------------------
+
+----------------------------------------------
