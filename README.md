@@ -18,7 +18,7 @@ Install Spacy Library
 
 Reference for UI: PySimpleGUI
 
-##Tasks
+## Tasks
 
 Q&A Based on posts in a forum
 Load posts from a forum
