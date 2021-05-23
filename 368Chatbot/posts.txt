@@ -1,0 +1,120 @@
+Post ID is: kllaqq27scj6pj
+
+----------------------------------------------
+Post number is: 131
+----------------------------------------------
+Post subject is: LEX08 program2 return type and &#34;make tests&#34; undefined reference errors
+----------------------------------------------
+Post content is: Some people had this question in lab and left since they finished, so I wanted to clarify the following: In program.h, if you have cloned the repository prior to this modification, please change the return type of program2 from **void** to        struct Node * Additionally, although the file is called "test.c", you will run **make tests** and not "make test". This should resolve any undefined errors you may be getting - sorry for the confusion!   #pin
+
+----------------------------------------------
+
+----------------------------------------------
+Post ID is: klbbg1zye084u5
+
+----------------------------------------------
+Post number is: 101
+----------------------------------------------
+Post subject is: LEX06 Question 24 Clarification
+----------------------------------------------
+Post content is: Question 24 in the google form states: "Add and commit the changes you made to test.c to your repo, and push the changes back to the remote repository."   Please make sure to add and commit **all the changes** you have made rather than only those to tests.c. Sorry for the confusion! #pin
+
+----------------------------------------------
+
+----------------------------------------------
+Post ID is: kkynbb6cgvt144
+
+----------------------------------------------
+Post number is: 67
+----------------------------------------------
+Post subject is: LEX 01 and LEX 02 Due Date Extension
+----------------------------------------------
+Post content is: I hope the semester is treating you all well! Due to add/drop, we will be accepting LEX 01 and LEX 02 google forms and AutoLab submissions until **Wednesday, February 10 at 11:59 PM.** Please note that there usually will be no extensions on LEX's and that they are due the next day at 11:59 PM. #pin
+
+----------------------------------------------
+
+----------------------------------------------
+Post ID is: kkoixy8xumk1se
+
+----------------------------------------------
+Post number is: 22
+----------------------------------------------
+Post subject is: Using SCP &amp; SSH In Lab
+----------------------------------------------
+Post content is: During labs this semester you will be downloading zipped code from the course website and then doing the work on a CSE server whose name is `timberlake.cse.buffalo.edu`. At the end of labs you upload your code to Autolab. This means that you will need to transfer files from your local machine to timberlake and back again. We do this using SCP (Secure Copy). Following are the steps you should take during lab to transfer files between your local machine and timberlake.  1. To ssh into timberlake: The first time you do this you will need to make sure you have a CSE306 directory set up on timberlake. To do this, open up a terminal window (let's call this window A) on your system and remotely log into to timberlake using SSH, replacing `<UBIT>` with your UBIT name:         ssh <UBIT>@timberlake.cse.buffalo.edu  2. After that, you will be prompted for a password, this is just your UBIT password.  3. On timberlake, create a CSE306 directory:         mkdir ~/CSE306  4. To use SCP: SCP is used like CP to copy files but in this case we have to incorporate the hostname. The general formal is:         scp <source> <destination>   5. To transfer something from timberlake to your local machine, you need to get the path of the file you need to transfer (you can use pwd for this). **Additionally, when transferring something from timberlake to your local machine, you must be logged out of timberlake.** For example, if I wanted to transfer my submission file from LEX 01, to my local machine, the command would look like:         scp <UBIT>@timberlake.cse.buffalo.edu:~/CSE306/lex01/submission.zip <PATH TO DESTINATION>  6. To transfer something from your local machine to timberlake:  7.   scp <FILE> <UBIT>@timberlake.cse.buffalo.edu:~/CSE306/  8. You can exit timberlake by typing:         exit   COPIED AND EDITED FROM PREVIOUS OFFERING OF THIS CLASS. Originally written by Professor Alphonce, Heeba Kariapper, and Katie James. #pin
+
+----------------------------------------------
+
+----------------------------------------------
+Post ID is: kjew8indptd30
+
+----------------------------------------------
+Post number is: 5
+----------------------------------------------
+Post subject is: Search for Teammates!
+----------------------------------------------
+Post content is: #pin
+
+----------------------------------------------
+
+----------------------------------------------
+Post ID is: kmmtdjmuhxa4x1
+
+----------------------------------------------
+Post number is: 232
+----------------------------------------------
+Post subject is: Plans for Wednesday and LEX16
+----------------------------------------------
+Post content is: I believe we are all set to go for LEX16. The recording for today is short, and walks you through the process (at least from my perspective) of setting up a ZenHub board and connecting it with a GitHub repository. You will need to [sign in to ZenHub](https://app.zenhub.com/login) with your GitHub account. This is important. Also, please come to the Demo during scheduled class time on Zoom so we have you all sign up and deal with any questions/problems **BEFORE** you have to start LEX16. Note that LEX16 will be a team-based LEX, based off of your EXP01 teams.
+
+----------------------------------------------
+
+----------------------------------------------
+Post ID is: kml5mnjbfp27o4
+
+----------------------------------------------
+Post number is: 231
+----------------------------------------------
+Post subject is: Only one LEX this week :-)
+----------------------------------------------
+Post content is: We have some slack in the schedule - and since some of you have voiced a desire to not have two LEXes every week, let's take advantage and drop this week's "TDB" LEX. Our next LEX will therefore be Thursday.
+
+----------------------------------------------
+
+----------------------------------------------
+Post ID is: km5cpjs5xbf4j7
+
+----------------------------------------------
+Post number is: 180
+----------------------------------------------
+Post subject is: **LEX12 &#34;taken at least once&#34; percent clarification**
+----------------------------------------------
+Post content is: A lot of people had questions in lab regarding getting the "taken at least once" percentage output from gcov. **Please try to get this percentage as high as possible (at least 87.50%).** Although it's okay to not have it at 100%, you **will lose points** if you didn't make the effort to get it high enough. #pin
+
+----------------------------------------------
+
+----------------------------------------------
+Post ID is: km0mgxhfg6m18a
+
+----------------------------------------------
+Post number is: 161
+----------------------------------------------
+Post subject is: Mid-course evaluation
+----------------------------------------------
+Post content is: Please participate in the [mid-course evaluation](https://sunyub.smartevals.com/) that runs through 3/11. I appreciate feedback on what is working well and what could be improved. Thanks!
+
+----------------------------------------------
+
+----------------------------------------------
+Post ID is: kli731xgio24e2
+
+----------------------------------------------
+Post number is: 121
+----------------------------------------------
+Post subject is: Formatting code in Markdown editor
+----------------------------------------------
+Post content is: When you post code in Piazza, please use the code block in the Rich Text Editor or the Markdown editor. If you use the 'Markdown editor' you can enclose a block of code between three single backquotes at the start and three single backquotes at the end to get it formatted as one block of code. If you also type "Python" after the starting backquotes the editor will format the code as Python code: \\```Python def fun(x,y): return x + y \\``` is formatted as follows ```Python def fun(x,y): return x + y ``` #pin
+
+----------------------------------------------
+
+----------------------------------------------
