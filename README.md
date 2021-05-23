@@ -20,14 +20,14 @@ Reference for UI: PySimpleGUI
 
 ## Tasks
 
-Q&A Based on posts in a forum
-Load posts from a forum
-Take in question
-Match question to post
-Provide Answer
-Open Q&A from Wikipedia
-Ask for search topic
-Query Wikipedia
-Show results
+- Q&A Based on posts in a forum
+- Load posts from a forum
+- Take in question
+- Match question to post
+- Provide Answer
+- Open Q&A from Wikipedia
+- Ask for search topic
+- Query Wikipedia
+- Show results
 
 
