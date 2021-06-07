@@ -12,6 +12,10 @@ Install Spacy Library
 
 2. python -m spacy download en_core_web_lg
 
+- python3 -m venv env 
+- source env/bin/activate
+
+
 3. Running the UI:
 
    python ui.py
